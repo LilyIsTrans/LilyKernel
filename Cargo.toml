@@ -1,0 +1,11 @@
+[package]
+name = "lily"
+version = "0.1.0"
+edition = "2021"
+description = "The core of the LilyOS kernel, Lily."
+authors = ["Lily McCabe <lily@lilymccabe.ca>"]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
